@@ -1,2 +1,1 @@
-# DalamudPlugins
-Dalamud plugin master repository
+# 手机妙妙工具
