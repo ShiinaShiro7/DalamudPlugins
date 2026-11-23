@@ -51,12 +51,12 @@
                      "dungeon"
                  ],
         "InternalName":  "NecroLensNew",
-        "AssemblyVersion":  "1.0.0.0",
+        "AssemblyVersion":  "1.0.0.1",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  15,
         "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NecroLensNew/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NecroLensNew/latest.zip",
         "DownloadCount":  0,
-        "LastUpdate":  "1795445788"
+        "LastUpdate":  "1795445950"
     }
 ]
