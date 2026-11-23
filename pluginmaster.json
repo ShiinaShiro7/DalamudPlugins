@@ -113,5 +113,22 @@
         "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/AoAoEnergy/latest.zip",
         "DownloadCount":  0,
         "LastUpdate":  "1795446881"
+    },
+    {
+        "Author":  "John Smith",
+        "Name":  "NewFolder3",
+        "Punchline":  "可以挖寶.",
+        "Description":  null,
+        "Tags":  [
+                     null
+                 ],
+        "InternalName":  "NewFolder3",
+        "AssemblyVersion":  "0.7.55.18",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NewFolder3/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NewFolder3/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795447218"
     }
 ]
