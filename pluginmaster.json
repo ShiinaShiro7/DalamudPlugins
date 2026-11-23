@@ -58,5 +58,22 @@
         "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NecroLensNew/latest.zip",
         "DownloadCount":  0,
         "LastUpdate":  "1795446205"
+    },
+    {
+        "Author":  "ShiinaShiro7",
+        "Name":  "GameTweaks",
+        "Punchline":  "daily game tweaks",
+        "Description":  "老手机妙妙工具箱",
+        "Tags":  [
+                     null
+                 ],
+        "InternalName":  "GameTweaks",
+        "AssemblyVersion":  "1.0.0.0",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/GameTweaks/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/GameTweaks/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795446536"
     }
 ]
