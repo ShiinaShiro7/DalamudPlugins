@@ -157,8 +157,8 @@
     {
         "Author":  "XeldarAlz,ShiinaShiro7",
         "Name":  "ShiroAutoTreasureMaps",
-        "Punchline":  "老实挖宝很枯燥吧！",
-        "Description":  "老实挖宝很枯燥吧！",
+        "Punchline":  "手机低语：老实挖宝很枯燥吧！",
+        "Description":  "基于XeldarAlz的Auto Treasure Maps，增加了组队挖宝、自动打工、G18剧透等功能。",
         "Tags":  [
                      "Treasure Hunt",
                      "Timeworn Maps",
@@ -176,7 +176,7 @@
         "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroAutoTreasureMaps/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroAutoTreasureMaps/latest.zip",
         "DownloadCount":  0,
-        "LastUpdate":  "1795451488",
+        "LastUpdate":  "1795452185",
         "IconUrl":  "https://raw.githubusercontent.com/ShiinaShiro7/DalamudPlugins/main/plugins/ShiroAutoTreasureMaps/icon.png"
     }
 ]
