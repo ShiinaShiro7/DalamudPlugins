@@ -170,13 +170,13 @@
                      "Party"
                  ],
         "InternalName":  "ShiroAutoTreasureMaps",
-        "AssemblyVersion":  "1.6.0.0",
+        "AssemblyVersion":  "1.6.1.0",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  15,
         "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroAutoTreasureMaps/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroAutoTreasureMaps/latest.zip",
         "DownloadCount":  0,
-        "LastUpdate":  "1795447904",
+        "LastUpdate":  "1795450704",
         "IconUrl":  "https://raw.githubusercontent.com/ShiinaShiro7/DalamudPlugins/main/icon.jpg"
     }
 ]
