@@ -1,47 +1,21 @@
-{
-    "value":  [
-                  {
-                      "value":  [
-                                    {
-                                        "Author":  "ShiinaShiro7",
-                                        "Name":  "ShiroBox",
-                                        "Punchline":  "记录并循环回放玩家动作",
-                                        "Description":  "记录游戏中可观测的玩家动作（技能、指令、聊天、背包操作等），并按时间线循环执行。",
-                                        "Tags":  [
-                                                     "automation",
-                                                     "recording",
-                                                     "replay"
-                                                 ],
-                                        "InternalName":  "ShiroBox",
-                                        "AssemblyVersion":  "1.0.0.0",
-                                        "ApplicableVersion":  "any",
-                                        "DalamudApiLevel":  15,
-                                        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
-                                        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
-                                        "DownloadCount":  0,
-                                        "LastUpdate":  "1795443519"
-                                    }
-                                ],
-                      "Count":  1
-                  },
-                  {
-                      "Author":  "Shiro",
-                      "Name":  "Shiro\u0027s box",
-                      "Punchline":  "记录并循环回放玩家动作",
-                      "Description":  "记录游戏中可观测的玩家动作，并按时间线循环执行。",
-                      "Tags":  [
-                                   "automation",
-                                   "recording"
-                               ],
-                      "InternalName":  "ShiroBox",
-                      "AssemblyVersion":  "1.0.0.0",
-                      "ApplicableVersion":  "any",
-                      "DalamudApiLevel":  15,
-                      "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
-                      "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
-                      "DownloadCount":  0,
-                      "LastUpdate":  "1795443553"
-                  }
-              ],
-    "Count":  2
-}
+[
+  {
+    "Author": "ShiinaShiro7",
+    "Name": "ShiroBox",
+    "Punchline": "记录并循环回放玩家动作",
+    "Description": "记录游戏中可观测的玩家动作（技能、指令、聊天、背包操作等），并按时间线循环执行。",
+    "Tags": [
+      "automation",
+      "recording",
+      "replay"
+    ],
+    "InternalName": "ShiroBox",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1795443553"
+  }
+]
