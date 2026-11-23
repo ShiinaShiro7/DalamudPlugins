@@ -75,5 +75,23 @@
         "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/GameTweaks/latest.zip",
         "DownloadCount":  0,
         "LastUpdate":  "1795446536"
+    },
+    {
+        "Author":  "Shiro",
+        "Name":  "ShiroPhone",
+        "Punchline":  "编排动作，打造你的专属脚本",
+        "Description":  "动作库 + 顺序步骤编排的自定义脚本插件：移动(vnavmesh)、交互、物品、命令、战斗(BossMod/手动技能)。",
+        "Tags":  [
+                     "automation",
+                     "scripting"
+                 ],
+        "InternalName":  "ShiroPhone",
+        "AssemblyVersion":  "0.1.0.0",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroPhone/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroPhone/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795446732"
     }
 ]
