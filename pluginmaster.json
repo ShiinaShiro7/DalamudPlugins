@@ -133,5 +133,25 @@
         "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NewFolder3/latest.zip",
         "DownloadCount":  0,
         "LastUpdate":  "1795447311"
+    },
+    {
+        "Author":  "ShiinaShiro7",
+        "Name":  "Character Panel Refined ZH",
+        "Punchline":  "精简角色面板，显示暴击、直击等实用属性（汉化版）",
+        "Description":  "优化角色面板显示：隐藏无用信息，加入暴击率、直击率、期望伤害/治疗量等实用属性，便于对比装备。Character Panel Refined 的简体中文本地化版本。",
+        "Tags":  [
+                     "character",
+                     "stats",
+                     "ui"
+                 ],
+        "InternalName":  "CharacterPanelRefinedCN",
+        "RepoUrl":  "https://github.com/ShiinaShiro7/CharacterPanelRefinedZH",
+        "AssemblyVersion":  "1.8.6.1",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/CharacterPanelRefinedCN/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/CharacterPanelRefinedCN/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795447555"
     }
 ]
