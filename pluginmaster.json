@@ -1,188 +1,158 @@
 [
     {
-        "value":  [
-                      {
-                          "Author":  "ShiinaShiro7",
-                          "Name":  "ShiroBox",
-                          "Punchline":  "记录并循环回放玩家动作",
-                          "Description":  "记录游戏中可观测的玩家动作（技能、指令、聊天、背包操作等），并按时间线循环执行。",
-                          "Tags":  [
-                                       "automation",
-                                       "recording",
-                                       "replay"
-                                   ],
-                          "InternalName":  "ShiroBox",
-                          "AssemblyVersion":  "1.0.0.0",
-                          "ApplicableVersion":  "any",
-                          "DalamudApiLevel":  15,
-                          "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
-                          "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
-                          "DownloadCount":  0,
-                          "LastUpdate":  "1795444007"
-                      },
-                      {
-                          "Author":  "ShiinaShiro7",
-                          "Name":  "RotationSolver ZH Patcher",
-                          "Punchline":  "auto-patch RotationSolver with Chinese localization",
-                          "Description":  "监视已安装的 RotationSolver，官方更新后自动向 DLL 注入汉化字典，无需手动重新编译。",
-                          "Tags":  [
-                                       null
-                                   ],
-                          "InternalName":  "RotationSolverZHPatcher",
-                          "AssemblyVersion":  "1.0.0.0",
-                          "ApplicableVersion":  "any",
-                          "DalamudApiLevel":  15,
-                          "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/RotationSolverZHPatcher/latest.zip",
-                          "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/RotationSolverZHPatcher/latest.zip",
-                          "DownloadCount":  0,
-                          "LastUpdate":  "1795448986"
-                      },
-                      {
-                          "Author":  "Jukka, ShiinaShiro7",
-                          "Name":  "NecroLensNew",
-                          "Punchline":  "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
-                          "Description":  "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-                          "Tags":  [
-                                       "potd",
-                                       "hoh",
-                                       "eo",
-                                       "esp",
-                                       "radar",
-                                       "sonar",
-                                       "deep",
-                                       "dungeon"
-                                   ],
-                          "InternalName":  "NecroLensNew",
-                          "AssemblyVersion":  "1.0.0.3",
-                          "ApplicableVersion":  "any",
-                          "DalamudApiLevel":  15,
-                          "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NecroLensNew/latest.zip",
-                          "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NecroLensNew/latest.zip",
-                          "DownloadCount":  0,
-                          "LastUpdate":  "1795450201"
-                      },
-                      {
-                          "Author":  "ShiinaShiro7",
-                          "Name":  "GameTweaks",
-                          "Punchline":  "daily game tweaks",
-                          "Description":  "老手机妙妙工具箱",
-                          "Tags":  [
-                                       null
-                                   ],
-                          "InternalName":  "GameTweaks",
-                          "AssemblyVersion":  "1.0.0.0",
-                          "ApplicableVersion":  "any",
-                          "DalamudApiLevel":  15,
-                          "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/GameTweaks/latest.zip",
-                          "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/GameTweaks/latest.zip",
-                          "DownloadCount":  0,
-                          "LastUpdate":  "1795448881"
-                      },
-                      {
-                          "Author":  "Shiro",
-                          "Name":  "ShiroPhone",
-                          "Punchline":  "编排动作，打造你的专属脚本",
-                          "Description":  "动作库 + 顺序步骤编排的自定义脚本插件：移动(vnavmesh)、交互、物品、命令、战斗(BossMod/手动技能)。",
-                          "Tags":  [
-                                       "automation",
-                                       "scripting"
-                                   ],
-                          "InternalName":  "ShiroPhone",
-                          "AssemblyVersion":  "0.1.0.0",
-                          "ApplicableVersion":  "any",
-                          "DalamudApiLevel":  15,
-                          "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroPhone/latest.zip",
-                          "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroPhone/latest.zip",
-                          "DownloadCount":  0,
-                          "LastUpdate":  "1795446732"
-                      },
-                      {
-                          "Author":  "Loskh, ShiinaShiro7 (fixed)",
-                          "Name":  "AoAoEnergy",
-                          "Punchline":  "将爆发药特效替换为能量饮料GG的RGB光效",
-                          "Description":  "嗷嗷有劲。基于 Loskh/AoAoEnergy 修复，直接调用客户端原生能量饮料特效，适配当前国服客户端。",
-                          "Tags":  [
-                                       "vfx",
-                                       "potion"
-                                   ],
-                          "InternalName":  "AoAoEnergy",
-                          "RepoUrl":  "https://github.com/ShiinaShiro7/AoAoEnergy-SP",
-                          "AssemblyVersion":  "1.1.8.1",
-                          "ApplicableVersion":  "any",
-                          "DalamudApiLevel":  15,
-                          "IconUrl":  "https://raw.githubusercontent.com/ShiinaShiro7/AoAoEnergy-SP/main/icon.png",
-                          "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/AoAoEnergy/latest.zip",
-                          "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/AoAoEnergy/latest.zip",
-                          "DownloadCount":  0,
-                          "LastUpdate":  "1795447257"
-                      },
-                      {
-                          "Author":  "transparent-duck \u0026 ShiinaShiro7",
-                          "Name":  "NewFolder3",
-                          "Punchline":  "深宫自动挖宝与登顶助手。",
-                          "Description":  "朝圣交错路/死者宫殿自动循环：挖宝藏、开箱子、陷阱处理、战斗辅助、存权重置与失败重开。内置本地详细地图数据，无需联网。",
-                          "Tags":  [
-                                       "deep dungeon",
-                                       "pilgrim",
-                                       "farming",
-                                       "automation"
-                                   ],
-                          "InternalName":  "NewFolder3",
-                          "AssemblyVersion":  "0.7.55.18",
-                          "ApplicableVersion":  "any",
-                          "DalamudApiLevel":  15,
-                          "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NewFolder3/latest.zip",
-                          "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NewFolder3/latest.zip",
-                          "DownloadCount":  0,
-                          "LastUpdate":  "1795450278"
-                      },
-                      {
-                          "Author":  "ShiinaShiro7",
-                          "Name":  "Character Panel Refined ZH",
-                          "Punchline":  "精简角色面板，显示暴击、直击等实用属性（汉化版）",
-                          "Description":  "优化角色面板显示：隐藏无用信息，加入暴击率、直击率、期望伤害/治疗量等实用属性，便于对比装备。Character Panel Refined 的简体中文本地化版本。",
-                          "Tags":  [
-                                       "character",
-                                       "stats",
-                                       "ui"
-                                   ],
-                          "InternalName":  "CharacterPanelRefinedCN",
-                          "RepoUrl":  "https://github.com/ShiinaShiro7/CharacterPanelRefinedZH",
-                          "AssemblyVersion":  "1.8.6.1",
-                          "ApplicableVersion":  "any",
-                          "DalamudApiLevel":  15,
-                          "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/CharacterPanelRefinedCN/latest.zip",
-                          "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/CharacterPanelRefinedCN/latest.zip",
-                          "DownloadCount":  0,
-                          "LastUpdate":  "1795447555"
-                      },
-                      {
-                          "Author":  "XeldarAlz,ShiinaShiro7",
-                          "Name":  "ShiroAutoTreasureMaps",
-                          "Punchline":  "老实挖宝很枯燥吧！",
-                          "Description":  "老实挖宝很枯燥吧！",
-                          "Tags":  [
-                                       "Treasure Hunt",
-                                       "Timeworn Maps",
-                                       "Treasure Coffer",
-                                       "Gil",
-                                       "Market Board",
-                                       "Gathering",
-                                       "Automation",
-                                       "Party"
-                                   ],
-                          "InternalName":  "ShiroAutoTreasureMaps",
-                          "AssemblyVersion":  "1.6.1.0",
-                          "ApplicableVersion":  "any",
-                          "DalamudApiLevel":  15,
-                          "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroAutoTreasureMaps/latest.zip",
-                          "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroAutoTreasureMaps/latest.zip",
-                          "DownloadCount":  0,
-                          "LastUpdate":  "1795450704",
-                          "IconUrl":  "https://raw.githubusercontent.com/ShiinaShiro7/DalamudPlugins/main/plugins/ShiroAutoTreasureMaps/icon.png"
-                      }
-                  ],
-        "Count":  9
+        "Author":  "ShiinaShiro7",
+        "Name":  "ShiroBox",
+        "Punchline":  "记录并循环回放玩家动作",
+        "Description":  "记录游戏中可观测的玩家动作（技能、指令、聊天、背包操作等），并按时间线循环执行。",
+        "Tags":  [
+                     "automation",
+                     "recording",
+                     "replay"
+                 ],
+        "InternalName":  "ShiroBox",
+        "AssemblyVersion":  "1.0.0.0",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795444007"
+    },
+    {
+        "Author":  "ShiinaShiro7",
+        "Name":  "RotationSolver ZH Patcher",
+        "Punchline":  "auto-patch RotationSolver with Chinese localization",
+        "Description":  "监视已安装的 RotationSolver，官方更新后自动向 DLL 注入汉化字典，无需手动重新编译。",
+        "Tags":  [
+                     null
+                 ],
+        "InternalName":  "RotationSolverZHPatcher",
+        "AssemblyVersion":  "1.0.0.0",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/RotationSolverZHPatcher/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/RotationSolverZHPatcher/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795448986"
+    },
+    {
+        "Author":  "Jukka, ShiinaShiro7",
+        "Name":  "NecroLensNew",
+        "Punchline":  "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
+        "Description":  "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
+        "Tags":  [
+                     "potd",
+                     "hoh",
+                     "eo",
+                     "esp",
+                     "radar",
+                     "sonar",
+                     "deep",
+                     "dungeon"
+                 ],
+        "InternalName":  "NecroLensNew",
+        "AssemblyVersion":  "1.0.0.3",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NecroLensNew/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NecroLensNew/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795450201"
+    },
+    {
+        "Author":  "ShiinaShiro7",
+        "Name":  "GameTweaks",
+        "Punchline":  "daily game tweaks",
+        "Description":  "老手机妙妙工具箱",
+        "Tags":  [
+                     null
+                 ],
+        "InternalName":  "GameTweaks",
+        "AssemblyVersion":  "1.0.0.0",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/GameTweaks/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/GameTweaks/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795448881"
+    },
+    {
+        "Author":  "Shiro",
+        "Name":  "ShiroPhone",
+        "Punchline":  "编排动作，打造你的专属脚本",
+        "Description":  "动作库 + 顺序步骤编排的自定义脚本插件：移动(vnavmesh)、交互、物品、命令、战斗(BossMod/手动技能)。",
+        "Tags":  [
+                     "automation",
+                     "scripting"
+                 ],
+        "InternalName":  "ShiroPhone",
+        "AssemblyVersion":  "0.1.0.0",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroPhone/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroPhone/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795446732"
+    },
+    {
+        "Author":  "Loskh, ShiinaShiro7 (fixed)",
+        "Name":  "AoAoEnergy",
+        "Punchline":  "将爆发药特效替换为能量饮料GG的RGB光效",
+        "Description":  "嗷嗷有劲。基于 Loskh/AoAoEnergy 修复，直接调用客户端原生能量饮料特效，适配当前国服客户端。",
+        "Tags":  [
+                     "vfx",
+                     "potion"
+                 ],
+        "InternalName":  "AoAoEnergy",
+        "RepoUrl":  "https://github.com/ShiinaShiro7/AoAoEnergy-SP",
+        "AssemblyVersion":  "1.1.8.1",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "IconUrl":  "https://raw.githubusercontent.com/ShiinaShiro7/AoAoEnergy-SP/main/icon.png",
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/AoAoEnergy/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/AoAoEnergy/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795447257"
+    },
+    {
+        "Author":  "transparent-duck \u0026 ShiinaShiro7",
+        "Name":  "NewFolder3",
+        "Punchline":  "深宫自动挖宝与登顶助手。",
+        "Description":  "朝圣交错路/死者宫殿自动循环：挖宝藏、开箱子、陷阱处理、战斗辅助、存权重置与失败重开。内置本地详细地图数据，无需联网。",
+        "Tags":  [
+                     "deep dungeon",
+                     "pilgrim",
+                     "farming",
+                     "automation"
+                 ],
+        "InternalName":  "NewFolder3",
+        "AssemblyVersion":  "0.7.55.18",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NewFolder3/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/NewFolder3/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795450278"
+    },
+    {
+        "Author":  "ShiinaShiro7",
+        "Name":  "Character Panel Refined ZH",
+        "Punchline":  "精简角色面板，显示暴击、直击等实用属性（汉化版）",
+        "Description":  "优化角色面板显示：隐藏无用信息，加入暴击率、直击率、期望伤害/治疗量等实用属性，便于对比装备。Character Panel Refined 的简体中文本地化版本。",
+        "Tags":  [
+                     "character",
+                     "stats",
+                     "ui"
+                 ],
+        "InternalName":  "CharacterPanelRefinedCN",
+        "RepoUrl":  "https://github.com/ShiinaShiro7/CharacterPanelRefinedZH",
+        "AssemblyVersion":  "1.8.6.1",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/CharacterPanelRefinedCN/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/CharacterPanelRefinedCN/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795447555"
     },
     {
         "Author":  "XeldarAlz,ShiinaShiro7",
@@ -206,6 +176,7 @@
         "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroAutoTreasureMaps/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroAutoTreasureMaps/latest.zip",
         "DownloadCount":  0,
-        "LastUpdate":  "1795450954"
+        "LastUpdate":  "1795451184",
+        "IconUrl":  "https://raw.githubusercontent.com/ShiinaShiro7/DalamudPlugins/main/plugins/ShiroAutoTreasureMaps/icon.png"
     }
 ]
