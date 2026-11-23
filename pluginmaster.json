@@ -17,5 +17,22 @@
         "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/ShiroBox/latest.zip",
         "DownloadCount":  0,
         "LastUpdate":  "1795444007"
+    },
+    {
+        "Author":  "ShiinaShiro7",
+        "Name":  "RotationSolver ZH Patcher",
+        "Punchline":  "auto-patch RotationSolver with Chinese localization",
+        "Description":  "监视已安装的 RotationSolver，官方更新后自动向 DLL 注入汉化字典，无需手动重新编译。",
+        "Tags":  [
+                     null
+                 ],
+        "InternalName":  "RotationSolverZHPatcher",
+        "AssemblyVersion":  "1.0.0.0",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/RotationSolverZHPatcher/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/ShiinaShiro7/DalamudPlugins/raw/main/plugins/RotationSolverZHPatcher/latest.zip",
+        "DownloadCount":  0,
+        "LastUpdate":  "1795445444"
     }
 ]
